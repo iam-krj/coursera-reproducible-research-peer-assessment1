@@ -18,6 +18,7 @@ activityData <- read.csv('activity.csv')
 ```
 
 -----
+//Assignment submitted by Krishna Raj//
 
 ## What is mean total number of steps taken per day?
 
@@ -43,6 +44,7 @@ stepsByDayMedian <- median(stepsByDay)
 * Median:  10395
 
 -----
+//Assignment submitted by Krishna Raj//
 
 ## What is the average daily activity pattern?
 
@@ -110,6 +112,7 @@ stepsByDayMedianImputed <- median(stepsByDayImputed)
 
 
 ----
+//Assignment submitted by Krishna Raj//
 
 ## Are there differences in activity patterns between weekdays and weekends?
 ##### 1. Create a new factor variable in the dataset with two levels – “weekday” and “weekend” indicating whether a given date is a weekday or weekend day.
